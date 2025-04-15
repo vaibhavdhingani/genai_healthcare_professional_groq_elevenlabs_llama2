@@ -1,0 +1,6 @@
+medicalchatbotenv
+.env
+cabundle.pem
+ca_roots.pem
+.gradio
+__pycache__
