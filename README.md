@@ -8,7 +8,7 @@ How Generative AI Will Change The Jobs Of Doctors And Healthcare Professionals !
 Clone the repository
 
 ```bash
-Project repo: https://github.com/vaibhavdhingani/GenAIMedicalChatbot.git
+Project repo: https://github.com/vaibhavdhingani/genai_healthcare_professional_groq_elevenlabs_llama2.git
 ```
 
 ### Step-1 : Create a python environment after opening the repository
